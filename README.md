@@ -1,5 +1,5 @@
 
-CHemicAl Substructure Exchange Relationship - CHASER
+**CH**emicAl **S**ubstructure **E**xchange **R**elationship - **CHASER**
 
 
 This repository contains CHASER analysis code and one example.
