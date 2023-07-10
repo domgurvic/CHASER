@@ -1,15 +1,15 @@
-# CHASER Example
+# CHASER Example (CHemicAl Substructure Exchange Relationship)
 
-This repository contains code and example for CHASER and MMPA implementation (modules mmpa and chaser respectivley)
+This repository contains code and example for CHASER and MMPA implementation (modules mmpa and chaser respectively)
 
 Example dataset obtained from ChEMBL database and contains activities against E. coli.
 
-Following steps are carried out below: 
+The following steps are carried out below: 
 
 1. ChEMBL dataset is curated and processed.
 2. MMPA result is obtained
-3. MMPA output is curated and proceeed
-4. CHESER is implemented to obtain final result.
+3. MMPA output is curated and proceed
+4. CHESER is implemented to obtain the final result.
 
 
 ```python
